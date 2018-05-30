@@ -4,4 +4,4 @@ class Application < Sinatra::Base
     erb :index
   end
 
-end
+end #Application class
